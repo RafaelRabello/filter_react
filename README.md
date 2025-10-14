@@ -18,7 +18,7 @@ Projeto feito com o objetivo de criar um sistema de busca e filtros funcional e 
 
 <br>
 
-![preview](filter/src\assets\preview.png)
+![preview](filter/src/assets/preview.png)
 
 ## 🚀 Tecnologias
 
