@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="src/assets/filter.png" width='50px'>
+  <img src="filter/src/assets/filter.png" width='50px'>
 </p>
 
 # RUR Tech 
@@ -18,7 +18,7 @@ Projeto feito com o objetivo de criar um sistema de busca e filtros funcional e 
 
 <br>
 
-![preview](src\assets\preview.png)
+![preview](filter/src\assets\preview.png)
 
 ## 🚀 Tecnologias
 
